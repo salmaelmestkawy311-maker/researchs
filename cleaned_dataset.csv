@@ -1,0 +1,20 @@
+employee_id,full_name,age,join_date,salary,department
+E101,Alice Smith,28,2021-01-15,70000.0,HR
+E102,Bob Jones,34,2020-03-10,85000.0,IT
+E103,Charlie Brown,33,2019-11-23,62000.0,Finance
+E104,Diana Prince,42,2022-05-01,73500.0,IT
+E105,Evan Wright,29,2021-08-19,58000.0,Unassigned
+E106,Fiona Gallagher,31,2018-04-12,92000.0,Finance
+E107,George Clark,45,2020-09-30,75000.0,HR
+E108,Hannah Abbott,33,2022-01-10,50000.0,IT
+E109,Ian Malcolm,50,2017-06-15,73500.0,Marketing
+E110,Julia Roberts,36,2021-12-01,88000.0,Unassigned
+E111,Kevin Bacon,38,2019-07-22,95000.0,IT
+E112,Laura Croft,27,2022-03-14,68000.0,Marketing
+E114,Nina Williams,33,2020-10-05,61000.0,HR
+E115,Oscar Isaac,33,2021-06-18,105000.0,IT
+E116,Paul Atreides,24,2023-01-01,54000.0,Marketing
+E117,Quinn Fabray,29,2019-12-15,67000.0,Finance
+E118,Rachel Green,32,2022-04-20,78000.0,HR
+E119,Steve Rogers,101,2018-11-11,110000.0,Management
+E120,Tony Stark,48,2015-05-04,150000.0,Management
